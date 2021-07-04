@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string-array name="parent_list">
+
+        <item>SA</item>
+        <item>SS</item>
+        <item>MB</item>
+        <item>SS</item>
+        <item>AS</item>
+        <item>RA</item>
+        <item>KM</item>
+        <item>AB</item>
+        <item>UA</item>
+        <item>SA</item>
+
+    </string-array>
+
+    <string-array name="child_list">
+
+        <item>Sarkar Abdullah\n\n
+
+            Student of the University of Daffodil International.\n
+            Subject in Computer Science Engineering.\n
+            In Final Year.\n
+        </item>
+        <item>Shimu Sarkar\n\n
+
+            Student Of MM College.\n
+            Subject Of Finance Banking.\n
+            In Frist Year.\n
+
+        </item>
+        <item>Monija Begum\n\n
+
+            House Wife.\n
+            Queen of Monija Saiful Monjil.\n
+            Mom of Sarkar Abdullah.\n
+        </item>
+        <item>Saiful Sarkar\n\n
+
+            Assistant Agriculture Officer.\n
+            Graduate in 1990.\n
+            King of Monija Saiful Monjil.\n
+
+
+        </item>
+        <item>Azim Sarkar\n\n
+
+            Examine of Intermediate.\n
+            Want to admit in Daffodil.\n
+            Bro of Sarkar Abdullah.\n
+
+        </item>
+        <item>Kamrul Monir\n\n
+
+            Student of Daffodil International.\n
+            Subject in Computer Science Engineering.\n
+            In First Year.\n
+
+
+        </item>
+        <item>Razu Ahmed\n\n
+
+            Student of DUET.\n
+            Subject in Civil.\n
+            In Second Year.\n
+
+        </item>
+
+        <item>Abu Bokkar\n\n
+
+            Student of Class Three.\n
+            In Madrasa.\n
+            Talent.\n
+
+
+        </item>
+        <item>Umaya Afrin\n\n
+
+            Student of Class Three.\n
+            In Madrasa.\n
+            Talent.\n
+
+
+        </item>
+        <item>Suriya Afrin\n\n
+
+            Student of Class Nine.\n
+            Jashore Collectorate School And College.\n
+            In Science.\n
+
+
+        </item>
+
+    </string-array>
+
+</resources>
